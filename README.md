@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="LarsO.2023.Greyscale.jpeg">
- <source media="(prefers-color-scheme: light)" srcset="LarsO.2023.Greyscale.jpegE">
- <img alt="YOUR-ALT-TEXT" src="LarsO.2023.Greyscale.jpeg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lpolstor/lpolstor/blob/main/LarsO.2023.Greyscale.jpeg?raw=true">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/lpolstor/lpolstor/blob/main/LarsO.2023.Greyscale.jpeg?raw=tru">
+ <img alt="YOUR-ALT-TEXT" src="https://github.com/lpolstor/lpolstor/blob/main/LarsO.2023.Greyscale.jpeg?raw=true">
 </picture>
